@@ -11,3 +11,20 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.Sign-up-btn{
+  width:20%;
+  margin-left: 40%;
+}
+.my-custom-navbar {
+  background-color: #fff;
+   /* Your exact color code here */
+}
+.custom-navbar-border {
+  /* thickness | style | color */
+  border-bottom: 2px solid rgb(164, 164, 164)
+  ; 
+}
+.nav-link{
+  margin-left: 20px;
+}
