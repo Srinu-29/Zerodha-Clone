@@ -1,17 +1,17 @@
-import React from 'react'
-import NavBar from '../NavBar';
-import Footer from '../Footer';
-import Hero from './Hero';
-import CreateTicket from './CreateTicket';
+import React from "react";
+import NavBar from "../NavBar";
+import Footer from "../Footer";
+import Hero from "./Hero";
+import CreateTicket from "./CreateTicket";
 
 function SupportPage() {
-    return ( <>
-    <NavBar/>
-    <h1>SupportPage</h1>
-    <Hero/>
-    <CreateTicket/>
-    <Footer/>
-    </> );
+  return (
+    <>
+      <h1>SupportPage</h1>
+      <Hero />
+      <CreateTicket />
+    </>
+  );
 }
 
 export default SupportPage;
