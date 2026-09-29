@@ -28,3 +28,8 @@ code {
 .nav-link{
   margin-left: 20px;
 }
+
+.Footer-Links{
+  text-decoration: none;
+  color: rgb(83, 79, 79);
+}
